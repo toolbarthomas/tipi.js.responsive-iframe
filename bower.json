@@ -9,7 +9,7 @@
     "toolbarthomas",
     "modular",
     "iframe",
-    "responsive",
+    "responsive"
   ],
   "license": "MIT",
   "main": "_tipi.js.responsive-iframe.js"
