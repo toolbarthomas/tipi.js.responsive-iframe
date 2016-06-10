@@ -1,0 +1,16 @@
+{
+  "name": "tipi.js.responsive-iframe",
+  "homepage": "https://github.com/toolbarthomas/tipi.js.responsive-iframe",
+  "authors": [
+    "Thomas van der Velde <contact@toolbarthomas.net>"
+  ],
+  "description": "Make iframes responsive",
+  "keywords": [
+    "toolbarthomas",
+    "modular",
+    "iframe",
+    "responsive",
+  ],
+  "license": "MIT",
+  "main": "_tipi.js.responsive-iframe.js"
+}
