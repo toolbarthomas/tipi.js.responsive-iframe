@@ -1,6 +1,6 @@
 {
-  "name": "tipi.js.responsive-iframe",
-  "homepage": "https://github.com/toolbarthomas/tipi.js.responsive-iframe",
+  "name": "tipi.plugin.responsive-iframe",
+  "homepage": "https://github.com/toolbarthomas/tipi.plugin.responsive-iframe",
   "authors": [
     "Thomas van der Velde <contact@toolbarthomas.net>"
   ],
@@ -12,5 +12,5 @@
     "responsive"
   ],
   "license": "MIT",
-  "main": "_tipi.js.responsive-iframe.js"
+  "main": "_tipi.plugin.responsive-iframe.js"
 }
