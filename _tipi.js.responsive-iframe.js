@@ -1,10 +1,3 @@
-/*
-	Tipi Component - Responsive iFrame
-
-	Created by: toolbarthomas
-	Build: 17.03.16
-*/
-
 function setResponsiveIframe(origin, filter) {
 	if(typeof origin === 'undefined') {
 		origin = $('body');
