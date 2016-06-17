@@ -4,7 +4,7 @@
   "authors": [
     "Thomas van der Velde <contact@toolbarthomas.net>"
   ],
-  "description": "Make iframes responsive",
+  "description": "iFrame scaling function",
   "keywords": [
     "toolbarthomas",
     "modular",
@@ -12,5 +12,5 @@
     "responsive"
   ],
   "license": "MIT",
-  "main": "_tipi.plugin.responsive-iframe.js"
+  "main": "tipi.plugin.responsive-iframe.js"
 }
