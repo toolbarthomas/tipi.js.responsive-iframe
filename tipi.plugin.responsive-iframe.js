@@ -55,7 +55,6 @@ function resizeResponsiveIframe(iframe) {
 			if(iframe_heightNew > 0) {
 				if (typeof iframe.attr('data-responsive-iframe-fit') !== 'undefined') {
 					if(iframe_heightNew > iframeParent_Height) {
-						console.log('groter');
 						height = iframeParent_Height;
 						width = 100 * iframeParent_Height / (ratio * 100);
 
